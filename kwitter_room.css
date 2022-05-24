@@ -1,0 +1,28 @@
+body
+{
+    background-image:url(consolas.jpg);
+    background-position:center;
+    background-size:cover;
+    text-align:center;
+    
+}
+.header{
+    color: white;
+}
+#miau{
+    border-radius: 20%;
+    width: 40px;
+}
+
+#crea{
+    color: cornsilk;
+}
+#sa{
+    color: beige;
+}
+#user_name{
+    color: beige;
+}
+#div{
+    background-color: lightblue;
+}
